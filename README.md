@@ -146,22 +146,49 @@ The engine performs **policy breakdown → cognitive evaluation → sentiment ge
 
 🔗 Project currently under development
 
+<br/>
+
+### 🏜️ **Arrakis Labs – Agentic Learning System**
+
+<br/>
+
+[![MERN](https://img.shields.io/badge/Stack-MERN-green?style=for-the-badge)]()
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AI](https://img.shields.io/badge/AI-RAG-0d6efd?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1f2937?style=for-the-badge)
+&nbsp;&nbsp;&nbsp;&nbsp;
+<br/><br/>
+
+An **AI-powered competitive programming platform** built on a deterministic Machine Intelligence Model (MIM) that performs calibrated root-cause diagnosis on every submission.
+
+Built with an **agentic architecture**:
+MIM acts as the decision core, LangGraph orchestrates workflows, agents generate explanations, and RAG memory evolves each user's cognitive state.
+
+<br/>
+
+### Platform Capabilities
+
+📚 **Curated Problem Library** — structured, difficulty-tiered learning paths  
+🏆 **Real-time Contests** — live leaderboards & dynamic scoring  
+⚙️ **Secure Code Execution** — Piston with Docker sandboxing  
+📝 **Online Assessments** — timed evaluations & performance analytics  
+
+<br/>
+
+**Diagnosis → Pattern Tracking → Adaptive Difficulty → Multi-Agent Feedback**
+
+A fully adaptive learning loop powered by deterministic intelligence.
+
+
+<br/>
+
+🔗 **[Live Demo](https://arrakis-labs-1.onrender.com/)**
+
+
+
+
 </div>
-<div align="center">
-### 🏜️ **Arrakis Labs – Mentat Trials**
-[![Stack](https://img.shields.io/badge/Stack-React_+_Node_+_FastAPI-purple?style=for-the-badge)]()
-[![AI](https://img.shields.io/badge/AI-MIM_Engine_+_RAG-blue?style=for-the-badge)]()
 
-An **AI-powered competitive programming platform** built around a deterministic Machine Intelligence Model (MIM) that diagnoses coding failures with calibrated confidence.
-
-Arrakis Labs integrates **root cause classification → pattern state machine → difficulty policy → LLM-guided feedback**, delivering intelligent hints, cognitive profiling, adaptive recommendations, and real-time contest systems.
-
-The architecture combines **React (SPA) + Node/Express (API) + FastAPI (AI Engine) + RAG memory**, ensuring deterministic diagnostics with scalable AI orchestration.
-
-🔗 Live Demo: https://arrakis-labs-1.onrender.com/
-
-
-</div>
 
 
 ---
